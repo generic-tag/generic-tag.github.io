@@ -24,7 +24,7 @@
 		<h3></h3>
 			<p></p>
 	<a href="https://generic-tag.github.io/thelink">temp link</a>
-	<p>nothing is more permanent than a temporary solution</p>
+	<!-- nothing is more permanent than a temporary solution -->
 </body>
 
 </html>
