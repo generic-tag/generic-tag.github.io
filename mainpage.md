@@ -5,6 +5,8 @@
 <!-- procrastination jumpscare -->
 <!-- Look thru old laptop for images -->
 <body>
+	<a href="https://generic-tag.github.io/thelink">temp link</a>
+	<!-- nothing is more permanent than a temporary solution -->
 	<h1></h1>
 	<h2>My favorite vacation destinations</h2>
  		<h3>Yosemite</h3>
