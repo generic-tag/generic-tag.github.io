@@ -1,17 +1,26 @@
-# generic-tag.github.io
-ap compsci website
-
 <!DOCTYPE html>
 
 <html>
 <!-- AT LEAST 2 images, 2 headings, Link to another page. Topic: planes/photos/me/something else ig-->
 <!-- procrastination jumpscare -->
-<!-- Look thru old laptop to find that one photo of plane on sunset -->
-<!-- I might just do everything on like thursday or smth -->
+<!-- Look thru old laptop for images -->
 <body>
-	<h1>My favorite vacation destinations</h1>
- 		<h2></h2>
-   		<h2>Jeju Island, Korea</h2>
+	<h1></h1>
+	<h2>My favorite vacation destinations</h2>
+ 		<h3>Palm Springs</h3>
+			<p>just 2 hours away, pretty good food w/ golf courses</p>
+   		<h3>Jeju Island, Korea</h3>
+			<p>its like hawaii, but with the parking space of LA</p>
+		<h3>Brianhead, Utah</h3>
+			<p>Its a ski place thing</p>
+<!-- Im not sure if i should do fav vacation destinations, maybe just a template -->
+     	<h2>some other thing, planes maybe?</h2>
+      		<h3></h3>
+			<p></p>
+   		<h3></h3>
+			<p></p>
+		<h3></h3>
+			<p></p>
 	
 </body>
 
