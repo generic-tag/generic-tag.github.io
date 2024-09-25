@@ -9,7 +9,9 @@ ap compsci website
 <!-- Look thru old laptop to find that one photo of plane on sunset -->
 <!-- I might just do everything on like thursday or smth -->
 <body>
-	<h1>My favorite vacation destination</h1>
+	<h1>My favorite vacation destinations</h1>
+ 		<h2></h2>
+   		<h2>Jeju Island, Korea</h2>
 	
 </body>
 
