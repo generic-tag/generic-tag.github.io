@@ -8,13 +8,13 @@
 	<h1></h1>
 	<h2>My favorite vacation destinations</h2>
  		<h3>Yosemite</h3>
-			<p>well theres a big rock there</p>
+			<p>well theres a big rock and some trees</p>
    		<h3>Jeju Island, Korea</h3>
 			<p>its like hawaii, but with the parking space of LA</p>
 		<h3>Brianhead, Utah</h3>
-			<p>Its a ski place thing</p>
+			<p>you ski there</p>
 		<h3>Palm Springs</h3>
-			<p>just 2 hours away, pretty good food w/ golf courses</p>
+			<p>why anyone decided building golf courses and a city in the middle of a desert was a good idea I have no idea</p>
 <!-- Im not sure if i should do fav vacation destinations, maybe just a template -->
      	<h2>some other thing idk what</h2>
       		<h3></h3>
