@@ -17,8 +17,6 @@
 			<p>why anyone decided building golf courses and a city in the middle of a desert was a good idea I have no idea</p>
 <!-- Im not sure if i should do fav vacation destinations, maybe just a template -->
      	<h2>some other thing idk what</h2>
-	<a href="https://generic-tag.github.io/thelink">temp link</a>
-	<!-- nothing is more permanent than a temporary solution -->
       		<h3></h3>
 			<p></p>
    		<h3></h3>
